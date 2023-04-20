@@ -12,6 +12,12 @@ In this project, we will examine the social proof effect through a ranking of sc
 
 Social proof is a psychological and social phenomenon wherein people copy the actions of others in choosing how to behave in a given situation
 
+## Sorting Reviews
+
+The WLB Score method calculates a confidence interval for the Bernoulli parameter p and considers the lower limit of this confidence interval as the WLB score
+
+Bernoulli is a probability distribution. It is mostly used to calculate the probability of binary events.
+
 ## Dataset Details
 
 itemId: Product ID
